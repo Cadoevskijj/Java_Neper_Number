@@ -1,4 +1,5 @@
 This is a little java script that calculus the aproximate value of euler number.
+
 Requirements:
 1) Git(of course)
 2) Java JDK, I suggest OpenJDK(https://openjdk.org/) 
