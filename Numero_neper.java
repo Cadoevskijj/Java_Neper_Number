@@ -1,5 +1,3 @@
-package src;
-
 public class Numero_neper {
     public static void main(String[] args) {
         int fake_infinito = 1000;
