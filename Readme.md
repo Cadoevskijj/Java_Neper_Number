@@ -5,8 +5,13 @@ Requirements:
 
 
 To make it works execute the following commands:
+
 git clone https://github.com/Cadoevskijj/Java_Neper_Number.git
+
 cd Java_Neper_Number
+
 javac Numero_neper.java ( to compile java code through the JVM)
+
 java Numero_neper (to execute the script)
+
 You sholud see the neper number :)
